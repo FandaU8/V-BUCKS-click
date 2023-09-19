@@ -1,0 +1,26 @@
+#cookie{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    cursor: pointer;
+    display: table;
+}
+html, body{
+    font-family: cursive
+     }
+body{
+    background: url("../img/background.jpg");
+    
+}
+#counter{
+    color: blanchedalmond;
+    margin: 0 auto;
+    cursor: pointer;
+    display: table;
+}
+#blackguy{
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin-bottom: 0%;
+}
